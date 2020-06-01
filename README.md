@@ -1,2 +1,2 @@
 # Create-your-own-image-classifier
-Building an flower classifier
+Building a flower classifier for Udacity's *AI Programming with Python* Nanodegree.
